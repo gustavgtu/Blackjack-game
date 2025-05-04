@@ -1,6 +1,21 @@
 === Blackjack History ===
 
 Result: You lost!
-Bet: 100 | Lost: 100
-Player hand: ['Ace', '4', 'King', '9'] (Total: 24)
-Dealer hand: ['King', '2'] (Total: 12)
+Bet: 50 | Lost: 50
+Player hand: ['7', 'King'] (Total: 17)
+Dealer hand: ['4', '10', '6'] (Total: 20)
+
+Result: You won!
+Bet: 50 | Won: 100
+Player hand: ['Jack', '9'] (Total: 19)
+Dealer hand: ['10', '4', 'Ace', 'Jack'] (Total: 25)
+
+Result: You lost!
+Bet: 20 | Lost: 20
+Player hand: ['Ace', '2', 'Ace', '8', '4'] (Total: 16)
+Dealer hand: ['Queen', 'King'] (Total: 20)
+
+Result: You lost!
+Bet: 80 | Lost: 80
+Player hand: ['2', 'King', '6'] (Total: 18)
+Dealer hand: ['King', '10'] (Total: 20)
